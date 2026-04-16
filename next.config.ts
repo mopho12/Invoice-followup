@@ -1,11 +1,7 @@
 import type { NextConfig } from "next";
 
 const nextConfig: NextConfig = {
-  output: 'export',
-  basePath: '/Invoice-followup',
-  images: {
-    unoptimized: true,
-  },
+  // Standard Next.js server mode — required for API routes, middleware, and Supabase SSR
 };
 
 export default nextConfig;
