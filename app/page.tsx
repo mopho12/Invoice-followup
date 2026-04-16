@@ -316,9 +316,6 @@ export default function Home() {
               <a href="#how-it-works" className="hover:text-white transition-colors">How It Works</a>
               <a href="#pricing" className="hover:text-white transition-colors">Pricing</a>
               <a href="#waitlist" className="hover:text-white transition-colors">Early Access</a>
-              <a href="#" className="hover:text-white transition-colors">Privacy Policy</a>
-              <a href="#" className="hover:text-white transition-colors">Terms of Service</a>
-              <a href="mailto:hello@chasebot.io" className="hover:text-white transition-colors">Contact</a>
             </nav>
           </div>
           <div className="mt-8 pt-8 border-t border-slate-800 text-center text-xs text-slate-600">
